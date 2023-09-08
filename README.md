@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=9cbfe3&height=250&section=header&text=WELCOME&fontSize=60&fontAlignY=38&desc=Jeong_ii's%20GitHub%20Profile&descAlignY=58&descAlign=70" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=9cbfe3&height=260&fontColor=ffffff&section=header&text=WELCOME&fontSize=68&fontAlignY=38&desc=Jeong_ii's%20GitHub%20Profile&descAlignY=55&descAlign=70" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -32,7 +32,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>☁️ SNS & Portfolio ☁️</p>
 </div>
 <div align=center>
 	<a href="https://je0ng-dev-log.tistory.com">
