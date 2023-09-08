@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=9cbfe3&height=200&section=header&text=HyunJeong&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=9cbfe3&height=260&section=header&text=HyunJeong&fontSize=90" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -38,7 +38,7 @@
 	<a href="https://je0ng-dev-log.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="mailto:admin@yermi.co.kr">
+	<a href="mailto:guswjd2360@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href=" ">
@@ -46,3 +46,6 @@
 	</a>
 	<br>
 </div>
+<br>
+<br>
+<br>
