@@ -49,4 +49,6 @@
 <br>
 <br>
 <br>
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswjd2360)](https://solved.ac/guswjd2360)
+<div align=center>
+	<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswjd2360">
+</div>
