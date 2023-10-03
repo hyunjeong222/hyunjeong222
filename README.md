@@ -49,6 +49,4 @@
 <br>
 <br>
 <br>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={guswjd2360})](https://solved.ac/{guswjd2360})
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={guswjd2360})](https://solved.ac/{guswjd2360})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={guswjd2360})](https://solved.ac/{guswjd2360})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswjd2360)](https://solved.ac/guswjd2360)
