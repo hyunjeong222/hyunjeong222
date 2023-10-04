@@ -1,9 +1,9 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=E89292&height=260&fontColor=ffffff&section=header&text=WELCOME&fontSize=68&fontAlignY=38&desc=Jeong_ii's%20GitHub%20Profile&descAlignY=55&descAlign=70" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=9DB6CF&height=260&fontColor=ffffff&section=header&text=WELCOME&fontSize=68&fontAlignY=38&desc=Jeong_ii's%20GitHub%20Profile&descAlignY=55&descAlign=70" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-  <p>✨ Platforms & Languages ✨</p>
+  	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
