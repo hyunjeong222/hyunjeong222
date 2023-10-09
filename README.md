@@ -49,8 +49,6 @@
 <br>
 <br>
 <br>
-<!-- 
 <div align=center>
 	<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswjd2360">
 </div>
- -->
