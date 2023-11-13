@@ -1,6 +1,9 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=9DB6CF&height=260&fontColor=ffffff&section=header&text=WELCOME&fontSize=68&fontAlignY=38&desc=Jeong_ii's%20GitHub%20Profile&descAlignY=55&descAlign=70" />	
-</div>
+<div align='center'>
+	
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=ffffff&height=260&section=header&text=WELCOME&fontSize=68&fontAlignY=38&desc=Jeong_ii's%20GitHub%20Profile&descAlignY=55&descAlign=70)
+
+<!-- color=gradient -->
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
   	<p>✨ Platforms & Languages ✨</p>
@@ -49,8 +52,20 @@
 <br>
 <br>
 <br>
-<!-- 
-<div align=center>
-	<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswjd2360">
-</div> 
+
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjeong222&show_icons=true&theme=transparent)
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswjd2360)](https://solved.ac/guswjd2360/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=guswjd2360&theme=warm)
+
+<br>
+<br>
+<br>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
+<!-- &animation=fadeIn&section=footer&text=🥇🥈🥉&fontAlign=70 -->
+
+</div>
