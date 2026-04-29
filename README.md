@@ -39,6 +39,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 -->
 
+<!--
 <div align=center>
 <p>👋 About me 👋</p>
 </div>
@@ -46,10 +47,7 @@
 <a href="https://je0ng-dev-log.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-F46D01?logo=tistory&style=flat-square&logoColor=FFFFFF"/></a>
 <a href="mailto:guswjd2360@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-30B980?logo=minutemailer&style=flat-square&logoColor=FFFFFF"/></a>
 <a href=" " target="_blank"><img src="https://img.shields.io/badge/Portfolio-EF2D5E?logo=githubsponsors&style=flat-square&logoColor=FFFFFF"/></a>
-
-<br>
-<br>
-<br>
+-->
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjeong222&show_icons=true&theme=transparent)
