@@ -58,10 +58,6 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=guswjd2360&theme=warm)
 -->
 
-<br>
-<br>
-<br>
-
 <!--
 <td align="center" valign="top" width="60%">
       <h4>Solved.ac Profile</h4>
