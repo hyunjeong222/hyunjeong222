@@ -21,6 +21,9 @@
   
 </div>
 
+<br>
+<br>
+
 <div align=center>
   <b>🛠️ Tech Stack 🛠️</b>
     
@@ -55,8 +58,11 @@
   <br>
 </div>
 
+<br>
+<br>
+
 <div align=center>
-  <b>🏆 Developer Profile 🏆</b>
+  <b>🌱 Developer Profile 🌱</b>
   
   <br>
   <br>
@@ -74,18 +80,24 @@
       />
     </td>
   </tr>
-  <tr>
-    <td align="left" valign="middle" width="55%">
-      <img
-        src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswjd2360"
-      />
-    </td>
-  </tr>
 </table>
+</div>
+
+<br>
+<br>
+
+<div align=center>
+  <b>🏆 Tier 🏆</b>
+  
+  <br>
+  <br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswjd2360)](https://solved.ac/guswjd2360/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=guswjd2360&theme=warm)
 
 </div>
 
-
+<br>
 <br>
 
 <div align=center>
