@@ -1,8 +1,15 @@
 <div align='center'>
-	
+<!--	
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=ffffff&height=260&section=header&text=WELCOME&fontSize=68&fontAlignY=38&desc=Jeong_ii's%20GitHub%20Profile&descAlignY=55&descAlign=70)
-
+-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header)
 <!-- color=gradient -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!" />
+  </a>
+</p>
 
 <div align=center>
 <p>✨ Tech Stack ✨</p>
