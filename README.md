@@ -1,37 +1,116 @@
 <div align='center'>
-<!--	
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=ffffff&height=260&section=header&text=WELCOME&fontSize=68&fontAlignY=38&desc=Jeong_ii's%20GitHub%20Profile&descAlignY=55&descAlign=70)
--->
 
+<!-- Header color=gradient -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header)
-<!-- color=gradient -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=30&pause=2000&color=25292e&random=false&width=550&lines=Hello+World!+My+name+is+HyunJeong%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
+<!--
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!" />
   </a>
 </p>
+-->
 
+<!-- Content -->
 <div align=center>
-<p>✨ Tech Stack ✨</p>
-<br>
+  <b>👋 About Me 👋</b>
+  
+  <br>
+  <br>
+  
 </div>
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
-![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white)
-<br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Mybatis](https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Fluentd&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
-<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+<div align=center>
+  <b>🛠️ Tech Stack 🛠️</b>
+    
+  <br>
+  <br>
+  
+  <div align=center>
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,idea" alt="skills logos" />
+  </div>
+  <div align=center>
+    <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="skills logos" />
+    <!-- ts -->
+  </div>
+  
+  <br>
+    
+  ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
+  ![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
+  ![Junit5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+  ![Mockito](https://img.shields.io/badge/Mockito-000000?style=for-the-badge)
+  <br>
+  ![SpringDataJpa](https://img.shields.io/badge/spring%20data%20jpa-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/hibernate-59666C?style=for-the-badge)
+  ![Mybatis](https://img.shields.io/badge/Mybatis-fe6602?style=for-the-badge&logo=Fluentd&logoColor=white)
+  <br>
+  ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+  <!--
+  ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+  -->
+  <br>
+</div>
+
+<div align=center>
+  <b>🏆 Developer Profile 🏆</b>
+  
+  <br>
+  <br>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="55%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=hyunjeong222&hide_border=true&rank_icon=github&theme=shadow_green"
+      />
+    </td>
+    <td align="left" valign="top" width="45%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjeong222&layout=compact&hide_border=true&theme=shadow_green"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle" width="55%">
+      <img
+        src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswjd2360"
+      />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 <br>
+
+<div align=center>
+<b>📧 Contact Me 📧</b>
+
+<br>
+<br>
+
+<div align=center>
+  <a href="https://mail.naver.com/write/ext?srvid=note&to=guswjd2360@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Mail"/></a>
+</div>
+
+</div>
+
+<br>
+<br>
+<br>
+
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
+</div>
+<!-- End -->
+
+
 
 <!--
 <div align=center>
@@ -71,16 +150,9 @@
 </td>
 -->
 
-<br>
-<br>
-<br>
-
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjeong222%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-
 <!-- &animation=fadeIn&section=footer&text=🥇🥈🥉&fontAlign=70 -->
 
-</div>
