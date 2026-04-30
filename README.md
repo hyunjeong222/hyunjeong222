@@ -74,7 +74,7 @@
       />
     </td>
   </tr>
-  <tr border="0" backgroud="#fff">
+  <tr>
     <td align="left" valign="middle" width="55%">
       <img
         src="http://mazassumnida.wtf/api/v2/generate_badge?boj=guswjd2360"
