@@ -101,7 +101,9 @@
 
 <div align=center>
 <b>📧 Contact Me 📧</b>
-
+<br>
+If you contact me, I can provide you with a Resume and Portfolio.
+  
 <br>
 <br>
 
