@@ -82,12 +82,12 @@
   <tr>
     <td align="center" valign="middle" width="55%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=hyunjeong222&hide_border=true&rank_icon=github&theme=shadow_green"
+        src="https://github-readme-stats-fast.vercel.app/api?username=hyunjeong222&hide_border=true&rank_icon=github&theme=shadow_green"
       />
     </td>
     <td align="left" valign="top" width="45%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjeong222&layout=compact&hide_border=true&theme=shadow_green"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hyunjeong222&layout=compact&hide_border=true&theme=shadow_green"
       />
     </td>
   </tr>
@@ -136,32 +136,5 @@ If you contact me, I can provide you with a Resume and Portfolio.
 </div>
 <!-- End -->
 
-
-
-<!--
-<div align=center>
-<p>🛠 Tools 🛠</p>
-</div>
-
-![EclipseIDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)
-![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
-![Intellijidea](https://img.shields.io/badge/Intellij%20idea-000000?style=flat-square&logo=Intellijidea&logoColor=white)
-<br>
-![ApacheTomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
--->
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjeong222&show_icons=true&theme=transparent)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=guswjd2360)](https://solved.ac/guswjd2360/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=guswjd2360&theme=warm)
--->
-
-<!--
-<td align="center" valign="top" width="60%">
-      <h4>Solved.ac Profile</h4>
-      <img src="https://solvedac-readme-stats.vercel.app/api?handle=guswjd2360"/>
-</td>
--->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/pranesh-2005/github-readme-stats-fast -->
