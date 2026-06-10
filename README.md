@@ -14,20 +14,20 @@
 
 <!-- Content -->
 <div align=center>
-  <b>👋 About Me 👋</b>
+  <b>⭐ About Me ⭐</b>
   
   <br>
   <br>
 
   <div align=left>
     <div align=center>
-    🎉 안녕하세요. <b>작은 디테일까지 신경 쓰는 개발자</b> 정현정입니다. 😊 <br>
+    👋 안녕하세요. <b>작은 디테일까지 신경 쓰는 개발자</b> 정현정입니다. <br>
     👩🏻‍💻 저는 <b>사용자의 입장에서 생각하고 개발하는 것</b>을 중요하게 생각합니다. <br>
-    💪🏻 서비스를 여러 번 테스트하며 같은 문제라도 더 나은 방법이 있는지 고민합니다. <br>
-    😆 새로운 기술을 배우는 과정을 즐거워하며 실패 경험에서도 배움을 찾으려고 노력합니다. <br>
-    🎯 재사용성과 확장성을 고려하며 사용자에게 신뢰를 줄 수 있는 서비스를 만드는 것이 목표입니다. <br>
+    🔍 서비스를 여러 번 테스트하며 <b>같은 문제라도 더 나은 방법</b>이 없을지 늘 고민합니다. <br>
+    😆 새로운 기술을 배우는 것을 좋아하고, 막히는 순간에서도 성장의 기회를 찾으려 노력합니다. <br>
+    🎯 재사용성과 확장성을 고려하며 <b>사용자에게 신뢰를 줄 수 있는 서비스</b>를 만드는 것이 목표입니다. <br>
     😍 I Like : Cafe, Coffee, Coding, Problem Solving <br>
-    👍🏻 I'm good at : Communication, Web Surfing
+    👍🏻 I'm good at : Communication, TroubleShooting
     </div>
   </div>
   
