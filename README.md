@@ -126,7 +126,7 @@ If you contact me, I can provide you with a Resume and Portfolio.
 <br>
 
 <div align=center>
-  <a href="https://mail.naver.com/write/ext?srvid=note&to=hyenj629@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Mail"/></a>
+  <a href="https://mail.naver.com/write/ext?srvid=note&to=guswjd2360@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Mail"/></a>
 </div>
 
 </div>
